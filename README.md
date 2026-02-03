@@ -27,6 +27,7 @@ sudo apt install nodejs npm -y
 Step 2: Create a simple backend app
 mkdir ~/node-backend && cd ~/node-backend
 nano server.js
+
 Paste this:
 
 const http = require('http');
